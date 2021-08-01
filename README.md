@@ -17,10 +17,7 @@
 
 <div align=center>
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://geniusnohkang.tistory.com/)](https://geniusnohkang.tistory.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
- 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kangho_noh/)](https://www.instagram.com/kangho_noh/) 
-  
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://geniusnohkang.tistory.com/)](https://geniusnohkang.tistory.com/)
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kangho_noh/)](https://www.instagram.com/kangho_noh/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdgh98@khu.ac.kr)](mailto:rkdgh98@khu.ac.kr)
 </div>
