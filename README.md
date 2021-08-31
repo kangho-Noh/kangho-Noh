@@ -5,13 +5,13 @@
 </div>
 
 ### Majoring in Computer Engineering at Kynghee Univ.
-- I am interested in web service programming.
+- I am interested in web service programming, especially Java/Spring.
 - Still I am trying other things such as devops, metabus, and etc.
 
 
 ### Interest
-- Web Service Programming (React, Express, Django)
-- DevOps (Docker, kubernetis)
+- Web Service Programming (Spring, React, Express)
+- DevOps (Docker)
 - Metabus (The Next SNS)
 - Singing, Video editing
 
