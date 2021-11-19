@@ -10,7 +10,7 @@
 
 
 ### Interest
-- Web Service Programming (Spring, SpringBoot, React, Express)
+- Web Service Programming (Spring, SpringBoot, Flask, ReactJS, Express)
 - DevOps (Docker)
 - Singing, Video editing
 
