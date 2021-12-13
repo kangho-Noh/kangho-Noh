@@ -6,12 +6,12 @@
 
 ### Majoring in Computer Engineering at Kynghee Univ.
 - I am interested in back-end programming, especially Java Spring.
-- Still I am trying other things such as devops and more.
+- Still I am trying other things such as container programming, Devops or more.
 
 
 ### Interest
 - BackEnd Programming (Spring, SpringBoot, Flask)
-- DevOps (Docker)
+- Container Programming, Orchestration (Docker, kubernetes)
 - Singing, Video editing
 
 <div align=center>
